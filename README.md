@@ -54,7 +54,7 @@ Built with
 To customize with your information, i recommend making a clone of the project using:
 
 ```bash
-git clone <https://github.com/lrmn7/linktree-black.git>
+git clone <https://github.com/lrmn7/linktree-v1.git>
 ```
 
 ###
