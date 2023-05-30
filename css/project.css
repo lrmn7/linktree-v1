@@ -1,0 +1,239 @@
+/* ----------------------------------------------------- */
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border:  solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/* --------------HACKER RANK--------------------------------------- */
+
+.links-donlod{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-donlod:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #2B3035,#2B3035,#3bc269;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#2B3035,#2B3035,#2B3035,#3bc269);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#2B3035,#2B3035,#2B3035,#3bc269); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------HACKER RANK--------------------------------------- */
+
+/* --------------LEETCODE--------------------------------------- */
+
+.links-og{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-og:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #b5b4b4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff,#fba522, #b5b4b4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff,#fba522, #b5b4b4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------LEETCODE--------------------------------------- */
+
+/* --------------CODECHEF--------------------------------------- */
+
+.links-wa-helper{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-wa-helper:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #5d4037;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#b4bcc4,#b4bcc4, #5d4037);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b4bcc4,#b4bcc4, #5d4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------WA HELPER--------------------------------------- */
+.links-quran-everything{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+.links-quran-everything:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #5d4037;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#b4bcc4,#b4bcc4, #5d4037);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b4bcc4,#b4bcc4, #5d4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+.links-quran-everywhere{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+.links-quran-everywhere:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #5d4037;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#b4bcc4,#b4bcc4, #5d4037);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b4bcc4,#b4bcc4, #5d4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------QURAN EVERYTHING--------------------------------------- */
+/* --------------QURAM EVERYWHERE--------------------------------------- */
+.links-random-quotes{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+.links-random-quotes:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #5d4037;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#b4bcc4,#b4bcc4, #5d4037);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b4bcc4,#b4bcc4, #5d4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------RANDOM QUOTES--------------------------------------- */
+/* --------------HOME--------------------------------------- */
+
+.links-home{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-home:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #FFFFFF;  /* fallback for old browsers */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------HOME--------------------------------------- */

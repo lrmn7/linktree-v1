@@ -1,0 +1,282 @@
+
+/* ----------------------------------------------------- */
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border:  solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/* ----------------------------------------------------- */
+/* --------------ME-------------------------------------- */
+
+.links-me{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-me:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #def2f1;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#3aafa9,#def2f1,#3aafa9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#3aafa9,#def2f1,#3aafa9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------ME--------------------------------------- */
+
+/* --------------GITHUB--------------------------------------- */
+
+.links-github{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-github:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #2B3035;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------GITHUB--------------------------------------- */
+
+/* --------------SOCIAL--------------------------------------- */
+
+.links-social{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-social:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #00405d;  /* fallback for old browsers */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------SOCIAL--------------------------------------- */
+
+
+
+/* --------------LIN--------------------------------------- */
+
+.links-linkedin{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-linkedin:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #0072AC;  /* fallback for old browsers */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------LIN--------------------------------------- */
+
+
+
+/* --------------MAIL--------------------------------------- */
+
+.links-mail{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-mail:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #870000;  /* fallback for old browsers */
+ 
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------MAIL--------------------------------------- */
+
+/* --------------DEVELOPER--------------------------------------- */
+
+.links-google{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-google:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #FBBC05;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right,#34285F4, #34A853, #FBBC05, #EA4335);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right,#4285F4, #34A853, #FBBC05, #EA4335); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------DEVELOPER--------------------------------------- */
+
+/* --------------CODING--------------------------------------- */
+
+.links-code{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-code:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #c7f2c7;
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------CODING--------------------------------------- */
+
+/* --------------Resume--------------------------------------- */
+
+.links-resume{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-resume:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background:#FFFFFF;  /* fallback for old browsers */
+
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------Resume--------------------------------------- */
